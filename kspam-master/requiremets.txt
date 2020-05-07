@@ -1,0 +1,7 @@
+catboost
+pandas
+numpy
+gensim
+scikit-learn
+
+# need add more #todo
